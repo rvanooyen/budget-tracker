@@ -1,6 +1,6 @@
 # budget-tracker
 An app that tracks budget items and transactions.
-Uses IDB, offline functionality to cache and provide accesibility offline.
+Uses IDB and service workers offline functionality to cache and provide accesibility offline.
 
 Deployed App:
 https://young-escarpment-81013.herokuapp.com/
